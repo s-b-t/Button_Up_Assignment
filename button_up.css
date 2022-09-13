@@ -1,0 +1,35 @@
+
+
+#search {
+    border-radius: 15px;
+    width: 120px;
+    height: 25px;
+    color: grey;
+    border-color: grey;
+    background-color: lightgrey;
+    text-align: center
+    
+}
+
+#addsign {
+    border-radius: 31px;
+    height: 31px;
+    width: 31px;
+    color: white;
+    border: none;
+    background-color: green;
+    text-align: center;
+    
+}
+
+#create-account {
+    border-width: 2.5px;
+    border-color: black;
+    height: 35px;
+    width: 130px;
+    background-color: blue;
+    color: white;
+    box-shadow: 5px 5px 5px black;
+    text-align: center;
+    
+}
